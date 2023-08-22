@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1><b></b>Olá, Meu Nome é Thawan Bruno</h1><b></h1>
+<br>
+<h2>Técnico de Desenvolvemento de Sisemas, Cursando ADS na SPTECH!</h2>
+
+
 
 <!--
 **thawanBruno/thawanBruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
