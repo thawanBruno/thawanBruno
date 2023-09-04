@@ -12,6 +12,19 @@
   <a href="https://github.com/thawanBruno"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thawanBruno&layout=compact&langs_count=6&theme=default"/></a>
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="30"/>
+  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" alt="Figma" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="30"/>
+  
+  
+  <a>![Snake animation](https://github.com/Pettyvelasques/pettyvelasques/blob/output/github-contribution-grid-snake.svg)</a>
+</p>
+
 
 <!--
 **thawanBruno/thawanBruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
