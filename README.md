@@ -23,8 +23,6 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1-1174935.png?f=webp" alt="git" width="40" height="30"/>
 </p>
 
-![Snake animation](https://github.com/thawanBruno/thawanBruno/blob/output/github-contribution-grid-snake.svg)
-
 
 <!--
 **thawanBruno/thawanBruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
