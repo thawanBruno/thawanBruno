@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/thawanBruno"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=thawanBruno&show_icons=true&theme=default&include_all_commits=false&count_private=false"/></a>
-  <a href="https://github.com/thawanBruno"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thawanBruno&layout=compact&langs_count=6&theme=default"/></a>
+  <a href="https://github.com/thawanBruno"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thawanBruno&layout=compact&langs_count=6&theme=dark"/></a>
 </div>
 
 <p align="center">
@@ -20,9 +20,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" width="40" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="30"/>
-  
-  
-  <a>![Snake animation](https://github.com/Pettyvelasques/pettyvelasques/blob/output/github-contribution-grid-snake.svg)</a>
 </p>
 
 
