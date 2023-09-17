@@ -5,7 +5,7 @@
 <br>
 <h1 align="center"><b>Olá, Meu Nome é Thawan Bruno</b></h1>
 <br>
-<h4 align="center">Técnico de Desenvolvemento de Sisemas, Cursando ADS na SPTECH!</h2>
+<h4 align="center">Técnico de Desenvolvemento de Sistemas, Cursando ADS na SPTECH!</h2>
 
 <div align="center">
   <a href="https://github.com/thawanBruno"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=thawanBruno&show_icons=true&theme=dark&include_all_commits=false&count_private=false"/></a>
