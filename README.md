@@ -20,7 +20,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" width="40" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="30"/>
-  <img src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" alt="git" width="50" height="50"/>
+  <img src="https://icons8.com/icon/hsPbhkOH4FMe/node-js" alt="git" width="35" height="35"/>
 </p>
 
 
