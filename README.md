@@ -8,7 +8,7 @@
 <h4 align="center">Técnico de Desenvolvemento de Sisemas, Cursando ADS na SPTECH!</h2>
 
 <div align="center">
-  <a href="https://github.com/thawanBruno"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=thawanBruno&show_icons=true&theme=default&include_all_commits=false&count_private=false"/></a>
+  <a href="https://github.com/thawanBruno"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=thawanBruno&show_icons=true&theme=dark&include_all_commits=false&count_private=false"/></a>
   <a href="https://github.com/thawanBruno"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thawanBruno&layout=compact&langs_count=6&theme=dark"/></a>
 </div>
 
