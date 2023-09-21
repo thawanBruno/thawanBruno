@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=thawanBruno&style=plastic&label=Stalkers" alt="thawanBruno" />
 </p>
 <br>
-<h1 align="center"><b>Olá, Meu Nome é Thawan Bruno</b></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8Bsize=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Thawan+Araújo;Eu+Tenho+18+Anos;Eu+sou+Brasileiro+e+um+Futuro+Desenvolvedor;Bem+vindo!+:%29)](https://git.io/typing-svg)
 <br>
 <h4 align="center">Técnico de Desenvolvemento de Sistemas, Cursando ADS na SPTECH!</h2>
 
@@ -11,6 +11,8 @@
   <a href="https://github.com/thawanBruno"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=thawanBruno&show_icons=true&theme=dark&include_all_commits=false&count_private=false"/></a>
   <a href="https://github.com/thawanBruno"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thawanBruno&layout=compact&langs_count=6&theme=dark"/></a>
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thawanBruno&bg_color=transparent&color=515576&line=4a73b5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="30"/>
