@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=thawanBruno&style=plastic&label=Stalkers" alt="thawanBruno" />
 </p>
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8Bsize=35&center=true&vCenter=true&width=1000&lines=Olá+meu+nome+é+Thawan+Bruno,+futuro+programador+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8Bsize=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Cláudio+Araújo;I'm+18+years+old;I'm+from+Brazil;I+Future+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 <h4 align="center">Técnico de Desenvolvemento de Sistemas, Cursando ADS na SPTECH!</h2>
