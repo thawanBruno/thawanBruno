@@ -3,6 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=thawanBruno&style=plastic&label=Stalkers" alt="thawanBruno" />
 </p>
 <br>
+<h1 align="center">Thawan Bruno</h1>
+<br>
 <h4 align="center">Técnico de Desenvolvemento de Sistemas, Cursando ADS na SPTECH!</h2>
 
 <div align="center">
